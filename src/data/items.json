@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Achaar",
+    "price": 10.99,
+    "imgUrl": "/images/achaar.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bhachaar",
+    "price": 10.99,
+    "imgUrl": "/images/achaar-thumbnail.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Achaar",
+    "price": 10.99,
+    "imgUrl": "/images/5cbbe6c6f.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bhachaar",
+    "price": 10.99,
+    "imgUrl": "/images/lime-pickle-hero.jpg"
+  }
+]
