@@ -1,2 +1,2 @@
 # shopper
-ecommerce app
+ecommerce app using react and typescript
